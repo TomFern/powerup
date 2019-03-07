@@ -1,0 +1,3 @@
+Instancename,Database,BackupDirectory,StripeTotal,Pattern
+FOO,master,/sybase/dumps,1,%s_%d_%iof%t.dmp
+FOO,buzz,/sybase/dumps,3,%s_%d_%iof%t.dmp

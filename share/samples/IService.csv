@@ -1,0 +1,7 @@
+"Hostname","Servicename","Instancename","Port","Role","Username","Password"
+"FOO","FOO","FOO",,"Prod",,
+"FOO","FOO\BAR","BAR",,"Prod","sa","secret"
+"BAZ","BAZ","BAZ",,"Dev",,
+,,,,,
+
+"SPAM","SPAM\HAM","HAM",,"Test",,

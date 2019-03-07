@@ -1,0 +1,3 @@
+"Hostname","Servicename","DatabaseRegex","Ignore","MaxAgeFull","MaxAgeDiff","MaxAgeLog"
+"FOO","FOO",".*temp.*",true,,,
+"FOO","FOO\BAR",".*",false,691200,691200,691200

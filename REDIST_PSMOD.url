@@ -1,0 +1,5 @@
+# redistributables powershell modules: filename url
+PSRemoteRegistry.zip https://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=psremoteregistry&DownloadId=237276&FileTime=130422398213730000&Build=21031
+Pester.zip https://github.com/pester/Pester/archive/3.4.0.zip
+TaskScheduler.zip http://taskscheduler.start-automating.com/TaskScheduler.1.0.zip
+#Pscx-2.1.1.zip https://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=pscx&DownloadId=577965&FileTime=130055114368400000&Build=21031 
